@@ -1,0 +1,60 @@
+<aiml version = "1.0.1" encoding = "UTF-8">
+
+    <category>
+      <pattern>
+         WHERE IS THE COLLEGE CANTEEN
+      </pattern>
+
+      <template>
+        <random>
+          <li>
+           at the top
+          </li>
+        </random>   
+      </template>
+    </category>
+
+    <category>
+      <pattern>
+         WHAT IS THE OPENING AND CLOSING TIME OF CANTEEN
+      </pattern>
+
+      <template>
+        <random>
+          <li>
+           Opening time is 8am and closing time is 4pm
+          </li>
+        </random>   
+      </template>
+    </category>
+
+    <category>
+      <pattern>
+         WHAT KIND OF FOOD IS MADE IN YOUR COLLEGE CANTEEN
+      </pattern>
+
+      <template>
+        <random>
+          <li>
+           Both Veg and Non-Veg
+          </li>
+        </random>   
+      </template>
+    </category>
+
+    <category>
+      <pattern>
+         WHAT FACILITY IS PROVIDE BY YOUR COLLEGE CANTEEN
+      </pattern>
+
+      <template>
+        <random>
+          <li>
+           Spacious and well-equipped canteen facility is available at KGCE campus. A complete and planned meal is served in neat, clean and hygienic surroundings. Apart from north and south Indian nutritious break-fast, lunch and dinner, Tea, coffee and soft drinks along with snacks are also available. All the items are reasonably priced.
+          </li>
+        </random>   
+      </template>
+    </category>
+
+
+</aiml>

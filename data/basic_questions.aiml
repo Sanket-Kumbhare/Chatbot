@@ -1,0 +1,121 @@
+<aiml version = "1.0.1" encoding = "UTF-8">
+
+<category>
+  <pattern>
+    HI
+  </pattern>
+  <template>
+    <random>
+      <li> 
+        Hello,How can I help you?
+      </li>
+    </random>
+  </template>
+</category>
+
+<category>
+  <pattern>
+    HI*
+  </pattern>
+  <template>
+    <random>
+      <li> 
+        Hello,How can I help you?
+      </li>
+    </random>
+  </template>
+</category>
+
+<category>
+  <pattern>
+    HELLO
+  </pattern>
+  <template>
+    <random>
+      <li> 
+        Hello,How can I help you?
+      </li>
+    </random>
+  </template>
+</category>
+
+<category>
+      <pattern>
+         ARE YOU HUMAN
+      </pattern>
+      <template>
+        <random>
+          <li>
+           No but you are half correct,I am not human else I'am a Chatbot I am here to help you out
+          </li>
+        </random>
+      </template>
+    </category>
+
+    <category>
+      <pattern>
+         ARE YOU REAL
+      </pattern>
+      <template>
+        <random>
+          <li>
+           No, I am not real,I am just an Artificial Intelligence Software
+          </li>
+        </random>
+      </template>
+    </category>
+
+    <category>
+      <pattern>
+         ARE YOU ROBOT
+      </pattern>
+      <template>
+        <random>
+          <li>
+           Yes,I am robot,but I'am good one.Let me prove it.How can i help you?
+          </li>
+        </random>
+      </template>
+    </category>
+
+    <category>
+      <pattern>
+         HELLO I NEED YOUR HELP
+      </pattern>
+      <template>
+        <random>
+          <li>
+           Hello!,How can i help you?
+          </li>
+        </random>
+      </template>
+    </category>
+
+    <category>
+      <pattern>
+         WHO ARE YOU
+      </pattern>
+      <template>
+        <random>
+          <li>
+           Hi, I am a Chatbot
+          </li>
+        </random>
+      </template>
+    </category>
+
+    <category>
+      <pattern>
+         WHAT IS YOUR NAME
+      </pattern>
+      <template>
+        <random>
+          <li>
+           My name is Chatbot
+          </li>
+        </random>
+      </template>
+    </category>
+
+
+</aiml>
