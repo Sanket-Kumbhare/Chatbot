@@ -4,8 +4,7 @@
 <pattern>LOAD AIML B</pattern>
 <template>
 <!-- Load standard AIML set -->
-<learn>data/*.aiml</learn>
+<learn>brain/*.aiml</learn>
 </template>
 </category>
 </aiml>
-
